@@ -1,0 +1,8 @@
+name: KarlovEconomy
+version: ${project.version}
+main: ru.etysoft.KarlovEconomy
+api-version: 1.13
+depend: [Vault]
+authors: [karlov_m]
+description: Good economy plugin
+website: etysoft.ru
